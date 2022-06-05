@@ -24,4 +24,4 @@ _G.Settings = {
         ["Low Quality Parts"] = true -- Lower quality parts
     }
 }
-loadstring(game:HttpGet("https://raw.githubusercontent.com/CasperFlyModz/discord.gg-rips/main/FPSBooster.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LiteEagle262/roblox-booster-script/main/fork.lua"))()
